@@ -2,7 +2,7 @@
 schema:
   schema_id: konny_lancong_II
   name: 赣语－南昌（二式·组合式）
-  version: "1.3.1"
+  version: "1.3.2"
   dependencies:
     - konny_lancong_II_nowenbai
     - konny_lancong_II_gan
@@ -314,6 +314,7 @@ speller:
     - derive/^Gli$/Fli/
     - derive/^Gliak$/Fliah/
     - derive/^Gliang$/Fliang/
+    - derive/^Glie$/Flier/
     - derive/^Glin$/Flin/
     - derive/^Gliok$/Flioh/
     - derive/^Gliong$/Fliong/
@@ -397,7 +398,6 @@ speller:
     - derive/^Gnit$/Fnjit/
     - derive/^Gniu$/Fnju/
     - derive/^Gniuk$/Fnjuh/
-    - derive/^Gniung$/Fnjung/
     - derive/^Gniê$/Fnje/
     - derive/^Gniên$/Fnjen/
     - derive/^Gniêt$/Fnjet/
