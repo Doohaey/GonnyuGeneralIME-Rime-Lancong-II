@@ -1,7 +1,7 @@
 schema:
   schema_id: konny_lancong_II_old_norel_nowenbai
   name: lancong
-  version: "1.3.2"
+  version: "1.3.3"
 translator:
   dictionary: gannyu_lancong_old_rel
   prism: konny_lancong_II_old_rel_nowenbai
@@ -2017,7 +2017,6 @@ speller:
     - derive/^Gli$/Fli/
     - derive/^Gliak$/Fliah/
     - derive/^Gliang$/Fliang/
-    - derive/^Glie$/Flier/
     - derive/^Glin$/Flin/
     - derive/^Gliok$/Flioh/
     - derive/^Gliong$/Fliong/
@@ -2241,7 +2240,6 @@ speller:
     - derive/^Gxia$/Fxia/
     - derive/^Gxiak$/Fxiah/
     - derive/^Gxiang$/Fxiang/
-    - derive/^Gxik$/Fxih/
     - derive/^Gxin$/Fxin/
     - derive/^Gxiok$/Fxioh/
     - derive/^Gxiong$/Fxiong/
@@ -2253,7 +2251,6 @@ speller:
     - derive/^Gxiêt$/Fxiet/
     - derive/^Gxiêu$/Fxieu/
     - derive/^Gxyu$/Fxy/
-    - derive/^Gxyue$/Fxyer/
     - derive/^Gxyun$/Fxyn/
     - derive/^Gxyuon$/Fxyon/
     - derive/^Gxyuot$/Fxyot/
