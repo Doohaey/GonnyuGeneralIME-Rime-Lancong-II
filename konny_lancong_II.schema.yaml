@@ -188,7 +188,7 @@ speller:
     - derive/^Gfong$/Ffong/
     - derive/^Gfot$/Ffot/
     - derive/^Gfu$/Ffu/
-    - derive/^Gfuet$/Ffuert/
+    - derive/^Gfuet$/Ffuerl/
     - derive/^Gfui$/Ffui/
     - derive/^Gfuk$/Ffuh/
     - derive/^Gfun$/Ffun/
@@ -217,7 +217,7 @@ speller:
     - derive/^Gguan$/Fkuan/
     - derive/^Gguang$/Fkuang/
     - derive/^Gguat$/Fkuat/
-    - derive/^Gguet$/Fkuert/
+    - derive/^Gguet$/Fkuerl/
     - derive/^Ggui$/Fkui/
     - derive/^Gguk$/Fkuh/
     - derive/^Ggun$/Fkun/
@@ -475,7 +475,7 @@ speller:
     - derive/^Gsu$/Fsu/
     - derive/^Gsuai$/Fsuai/
     - derive/^Gsuan$/Fsuan/
-    - derive/^Gsuet$/Fsuert/
+    - derive/^Gsuet$/Fsuerl/
     - derive/^Gsui$/Fsui/
     - derive/^Gsuk$/Fsuh/
     - derive/^Gsun$/Fsun/
@@ -508,7 +508,7 @@ speller:
     - derive/^Gtong$/Fthong/
     - derive/^Gtot$/Fthot/
     - derive/^Gtu$/Fthu/
-    - derive/^Gtuet$/Fthuert/
+    - derive/^Gtuet$/Fthuerl/
     - derive/^Gtui$/Fthui/
     - derive/^Gtuk$/Fthuh/
     - derive/^Gtun$/Fthun/
@@ -516,23 +516,23 @@ speller:
     - derive/^Gtên$/Fthen/
     - derive/^Gtêt$/Fthet/
     - derive/^Gtêu$/Ftheu/
-    - derive/^Gwa$/Fua/
-    - derive/^Gwai$/Fuai/
-    - derive/^Gwan$/Fuan/
-    - derive/^Gwang$/Fuang/
-    - derive/^Gwat$/Fuat/
-    - derive/^Gwet$/Fuert/
-    - derive/^Gwi$/Fui/
-    - derive/^Gwo$/Fuo/
-    - derive/^Gwon$/Fuon/
-    - derive/^Gwong$/Fuong/
-    - derive/^Gwot$/Fuot/
-    - derive/^Gwu$/Fu/
-    - derive/^Gwuk$/Fuh/
-    - derive/^Gwun$/Fun/
-    - derive/^Gwung$/Fung/
-    - derive/^Gwut$/Fut/
-    - derive/^Gwêt$/Fuet/
+    - derive/^Gwa$/Fwa/
+    - derive/^Gwai$/Fwai/
+    - derive/^Gwan$/Fwan/
+    - derive/^Gwang$/Fwang/
+    - derive/^Gwat$/Fwat/
+    - derive/^Gwi$/Fwi/
+    - derive/^Gwo$/Fwo/
+    - derive/^Gwon$/Fwon/
+    - derive/^Gwong$/Fwong/
+    - derive/^Gwot$/Fwot/
+    - derive/^Gwu$/Fwu/
+    - derive/^Gwuk$/Fwuh/
+    - derive/^Gwun$/Fwun/
+    - derive/^Gwung$/Fwung/
+    - derive/^Gwut$/Fwul/
+    - derive/^Gwut$/Fwut/
+    - derive/^Gwêt$/Fwet/
     - derive/^Gxi$/Fxi/
     - derive/^Gxia$/Fxia/
     - derive/^Gxiak$/Fxiah/
@@ -553,25 +553,25 @@ speller:
     - derive/^Gxyuot$/Fxyot/
     - derive/^Gxyut$/Fxyt/
     - derive/^Gxyuê$/Fxye/
-    - derive/^Gya$/Fia/
-    - derive/^Gyang$/Fiang/
-    - derive/^Gyi$/Fi/
-    - derive/^Gyin$/Fin/
-    - derive/^Gyit$/Fit/
-    - derive/^Gyiu$/Fiu/
-    - derive/^Gyok$/Fioh/
-    - derive/^Gyong$/Fiong/
+    - derive/^Gya$/Fja/
+    - derive/^Gyang$/Fjang/
+    - derive/^Gyi$/Fji/
+    - derive/^Gyin$/Fjin/
+    - derive/^Gyit$/Fjit/
+    - derive/^Gyiu$/Fju/
+    - derive/^Gyok$/Fjoh/
+    - derive/^Gyong$/Fjong/
     - derive/^Gyu$/Fy/
     - derive/^Gyun$/Fyn/
-    - derive/^Gyung$/Fiung/
+    - derive/^Gyung$/Fjung/
     - derive/^Gyuon$/Fyon/
     - derive/^Gyuot$/Fyot/
     - derive/^Gyut$/Fyt/
     - derive/^Gyuê$/Fye/
-    - derive/^Gyê$/Fie/
-    - derive/^Gyên$/Fien/
-    - derive/^Gyêt$/Fiet/
-    - derive/^Gyêu$/Fieu/
+    - derive/^Gyê$/Fje/
+    - derive/^Gyên$/Fjen/
+    - derive/^Gyêt$/Fjet/
+    - derive/^Gyêu$/Fjeu/
     - derive/^Gza$/Ftsa/
     - derive/^Gzai$/Ftsai/
     - derive/^Gzak$/Ftsah/
@@ -588,7 +588,7 @@ speller:
     - derive/^Gzong$/Ftsong/
     - derive/^Gzot$/Ftsot/
     - derive/^Gzu$/Ftsu/
-    - derive/^Gzuet$/Ftsuert/
+    - derive/^Gzuet$/Ftsuerl/
     - derive/^Gzui$/Ftsui/
     - derive/^Gzuk$/Ftsuh/
     - derive/^Gzun$/Ftsun/
